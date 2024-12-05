@@ -1,1 +1,0 @@
-https://www.peterspython.com/en/blog/slqalchemy-dynamic-query-building-and-filtering-including-soft-deletes
