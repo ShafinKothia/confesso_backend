@@ -1,4 +1,4 @@
-﻿from unicodedata import category
+from unicodedata import category
 from isort import code
 from sqlalchemy.sql.expression import true
 from sqlalchemy import Column, ForeignKey, Integer, String

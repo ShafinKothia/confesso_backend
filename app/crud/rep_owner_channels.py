@@ -1,4 +1,4 @@
-﻿from app.schemas.sch_owner_channels import SCH_Get_Owner_Channel_By_Id, SCH_Get_Owner_Channels
+from app.schemas.sch_owner_channels import SCH_Get_Owner_Channel_By_Id, SCH_Get_Owner_Channels
 from socket import MsgFlag
 from fastapi import datastructures
 
